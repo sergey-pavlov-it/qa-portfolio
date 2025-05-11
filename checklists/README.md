@@ -5,7 +5,7 @@
 
 ## Проекты
 
-- [`checklist-saucedemo`](checklist-saucedemo) — чек-лист по сайту [saucedemo.com](https://www.saucedemo.com/): авторизация, корзина, оформление заказа, UI и визуальные проверки.
+- [`checklist-saucedemo`](checklist-saucedemo) — чек-лист по сайту [saucedemo.com](https://www.saucedemo.com/)
 
 ## В каждом проекте:
 
